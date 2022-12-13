@@ -20,7 +20,7 @@ Lenovo Intel® Xeon(R) Silver 4114 CPU @ 2.20GHz × 40, NVIDIA 16GB GPU
 
 Our Crawled Twitter dataset can be downloaded in the link: https://figshare.com/s/900ba41aaf320e228c95
 
-This link contains both the crawled and pre-processed Twitter data. However, one can run the below program to obtain the pre-processed data from the original crawled Twitter data.
+However, one can run the below program to obtain the pre-processed data from the original crawled Twitter data.
 
 # Preprocessing the Crawled Twitter Dataset
 
