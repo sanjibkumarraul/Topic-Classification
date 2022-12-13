@@ -24,21 +24,21 @@ This link contains both the crawled and pre-processed Twitter data. However, one
 
 # Preprocessing the Crawled Twitter Dataset:
 
-1. The preprocessing of Crawled Twitter Dataset can be done by using the python file: *SR_Twitter_Tweets_Preprocessing.py*
+The preprocessing of Crawled Twitter Dataset can be done by using the python file: *SR_Twitter_Tweets_Preprocessing.py*
 
 # Instructions to Run the Proposed Framework:
 
-1.Keep all the required files in a folder i.e., Datasets, pretrained fastText word embedding (*wiki-news-300d-1M.vec*), python file, configuration        file (*environment.yml*).
+1. Keep all the required files in a folder i.e., Datasets, pretrained fastText word embedding (*wiki-news-300d-1M.vec*), python file, configuration        file (*environment.yml*).
 
-2.Open the terminal inside the folder.
+2. Open the terminal inside the folder.
 
-3.Install Anaconda.
+3. Install Anaconda.
 
-4.creates a environment named *test_new* and install all project-specific packages by typing:
+4. Creates a environment named *test_new* and install all project-specific packages by typing:
   $conda env create -f environment.yml
   
-5.Activates the newly created *test_new* environment by typing:
+5. Activates the newly created *test_new* environment by typing:
   $conda activate test_new
   
-6.Runs the python file as a script in *test_new* environment:
+6. Runs the python file as a script in *test_new* environment:
   $python filename.py
