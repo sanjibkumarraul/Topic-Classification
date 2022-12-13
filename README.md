@@ -8,7 +8,7 @@ Software packages Required:
 3.All the required software packages and its versions are present in environment.yml file. It is a configuration file which defines program or application's settings.
 
 Hardware System Configuration:
-Lenovo Intel® Xeon(R) Silver 4114 CPU @ 2.20GHz × 40, 16GB GPU
+Lenovo Intel® Xeon(R) Silver 4114 CPU @ 2.20GHz × 40, NVIDIA 16GB GPU
 
 Dataset Link:
 Our Crawled Twitter dataset can be downloaded in the below given link:
