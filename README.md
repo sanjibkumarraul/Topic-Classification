@@ -26,7 +26,7 @@ This link contains both the crawled and pre-processed Twitter data. However, one
 
 1. The preprocessing of Crawled Twitter Dataset can be done by using the python file: *SR_Twitter_Tweets_Preprocessing.py*
 
-# Instructions to Run the Program:
+# Instructions to Run the Proposed Framework:
 
 1.Keep all the required files in a folder i.e., Datasets, pretrained fastText word embedding (*wiki-news-300d-1M.vec*), python file, configuration        file (*environment.yml*).
 
