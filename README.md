@@ -22,6 +22,10 @@ Our Crawled Twitter dataset can be downloaded in the link: https://figshare.com/
 
 However, one can run the below program to obtain the pre-processed data from the original crawled Twitter data.
 
+# Dataset Labeling
+
+Dataset can be labled using the python file: *Labelling_SRTwitter_Dataset.py*
+
 # Preprocessing the Crawled Twitter Dataset
 
 The preprocessing of Crawled Twitter Dataset can be done by using the python file: *SR_Twitter_Tweets_Preprocessing.py*
