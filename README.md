@@ -14,7 +14,7 @@ This is a GitHub link to access the replication package of the under review work
 
 For the experimental analysis, we have used the following system configuration:
 
-Lenovo Intel® Xeon(R) Silver 4114 CPU @ 2.20GHz × 40, NVIDIA 16GB GPU
+Lenovo Intel® Xeon(R) Silver 4114 CPU @ 2.20GHz × 40, NVIDIA 32GB GPU
 
 # Dataset Link
 
