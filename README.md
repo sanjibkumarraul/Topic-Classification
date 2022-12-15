@@ -20,11 +20,11 @@ Lenovo Intel® Xeon(R) Silver 4114 CPU @ 2.20GHz × 40, NVIDIA 16GB GPU
 
 Our Crawled Twitter dataset can be downloaded in the link: https://figshare.com/s/900ba41aaf320e228c95
 
-However, one can run the below program to obtain the pre-processed data from the original crawled Twitter data.
+However, one can run the below *SR_Twitter_Tweets_Preprocessing.py* program to obtain the pre-processed data from the original crawled Twitter data.
 
 # Dataset Labeling
 
-Dataset can be labled using the python file: *Labelling_SRTwitter_Dataset.py*
+Our Crawled Twitter dataset can be labled using the python file: *Labelling_SRTwitter_Dataset.py*
 
 # Preprocessing the Crawled Twitter Dataset
 
