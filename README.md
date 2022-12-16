@@ -40,7 +40,7 @@ The preprocessing of Crawled Twitter Dataset can be done by using the python fil
 
 4. Install Anaconda.
 
-5. Creates a environment named *test_new* and install all project-specific packages by typing:
+5. Creates an environment named *test_new* and install all project-specific packages by typing:
   $conda env create -f environment.yml
   
 6. Activates the newly created *test_new* environment by typing:
