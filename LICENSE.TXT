@@ -1,0 +1,52 @@
+==============================================================================
+SR_Topic Classification Release License
+==============================================================================
+National Institute of Technolgy, Warangal
+Open Source Code
+
+https://github.com/sanjibkumarraul/Topic-Classification
+
+
+Maintained & developed by:
+    Sanjib Kumar Raul
+    National Institute of Technolgy, Warangal
+
+Copyright (c) 2022 National Institute of Technolgy, Warangal.
+All rights reserved.
+
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this package and associated source code files, to deal with
+the package without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute copies of the package, and to permit persons to whom the package is furnished to do
+so, subject to the following conditions:
+
+    * Redistributions of source code must retain the above copyright notice,
+      this list of conditions and the following disclaimers.
+
+    * Redistributions in binary form must reproduce the above copyright notice,
+      this list of conditions and the following disclaimers in the
+      documentation and/or other materials provided with the distribution.
+
+    * Neither the names of the package, National Institute of Technolgy, Warangal,
+      nor the name of its contributors may be used to endorse or promote 
+      products derived from this package without specific prior written 
+      permission.
+      
+    * Use of source code and data must have prior permission.
+
+THE PACKAGE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
+CONTRIBUTORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE PACKAGE OR THE USE OR OTHER DEALINGS WITH THE
+PACKAGE.
+
+==============================================================================
+The SR_Topic Classification contains code written by us. Such package will have its own individual LICENSE.TXT file in the 
+directory in which it appears.
+This file will describe the copyrights, license, and restrictions which apply
+to that code.
+
+
