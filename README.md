@@ -2,6 +2,15 @@
 1. This is a GitHub link to access the replication package of the published work titled "Topic Classification using Regularized Variable-Size CNN and Dynamic BPSO in Online Social Network" in  "Arabian Journal for Science and Engineering, Springer."
 2. To cite this work, please use the following citation
 
+   @article{raul2023topic,
+  title={Topic Classification Using Regularized Variable-Size CNN and Dynamic BPSO in Online Social Network},
+  author={Raul, Sanjib Kumar and Rout, Rashmi Ranjan and Somayajulu, DVLN},
+  journal={Arabian Journal for Science and Engineering},
+  pages={1--23},
+  year={2023},
+  publisher={Springer}
+}
+
 Raul, S.K., Rout, R.R. & Somayajulu, D.V.L.N. Topic Classification Using Regularized Variable-Size CNN and Dynamic BPSO in Online Social Network. Arab J Sci Eng (2023). https://doi.org/10.1007/s13369-023-08021-2
 
 # Software packages Required
