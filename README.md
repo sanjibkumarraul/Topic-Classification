@@ -10,8 +10,7 @@
   year={2023},
   publisher={Springer}
 }
-4.
-Raul, S.K., Rout, R.R. & Somayajulu, D.V.L.N. Topic Classification Using Regularized Variable-Size CNN and Dynamic BPSO in Online Social Network. Arab J Sci Eng (2023). https://doi.org/10.1007/s13369-023-08021-2
+4. Raul, S.K., Rout, R.R. & Somayajulu, D.V.L.N. Topic Classification Using Regularized Variable-Size CNN and Dynamic BPSO in Online Social Network. Arab J Sci Eng (2023). https://doi.org/10.1007/s13369-023-08021-2
 
 # Software packages Required
 
